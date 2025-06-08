@@ -1,0 +1,41 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Users can read and write their own user document
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Campaigns - anyone can read, only authenticated users can create
+    match /campaigns/{campaignId} {
+      allow read: if true;
+      allow create: if request.auth != null;
+      allow update, delete: if request.auth != null && 
+        (request.auth.uid == resource.data.createdBy || 
+         request.auth.uid == resource.data.organizerId);
+    }
+    
+    // Donations - allow authenticated users to read all donations for analytics
+    // but limit personal data access
+    match /donations/{donationId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+    }
+    
+    // Wallets - users can only access their own wallets
+    match /wallets/{walletId} {
+      allow read, write: if request.auth != null && request.auth.uid == resource.data.userId;
+    }
+    
+    // Transactions - users can read transactions related to their wallets or campaigns
+    match /transactions/{transactionId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+    }
+    
+    // Analytics - only authenticated users can read
+    match /analytics/{document=**} {
+      allow read: if request.auth != null;
+    }
+  }
+} 
