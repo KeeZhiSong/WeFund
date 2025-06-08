@@ -68,7 +68,7 @@ the international crowdfunding scene as we know it.
 
 # [Blocklink : <https://testnet.xrpl.org/accounts/rPC5LX8Pc7cN7MadBsBdgA7NQuaZQM2wV4/transactions/>]
 
-# [Website has been published at :] [[https://easya-hackathon-84360.web.app/auth/]
+# [Website has been published at :] [https://easya-hackathon-84360.web.app/auth/]
 
 # [Presentation slides : <https://www.canva.com/design/DAGpp863C2M/PGqF5Chbp2g8oedsWu-QEQ/view?utm_content=DAGpp863C2M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h269ca26bd7>]
 
