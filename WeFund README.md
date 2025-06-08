@@ -32,10 +32,6 @@ have full control over which payments to trust and submit to the XRPL,
 there is complete transparency and security over payment flow and
 target.
 
-# 
-
-# 
-
 # [Key Security Features:]
 /auth - Authentication and verification for preventing unauthorized
 access and ensuring only legitimate users can donate. They protect donor
