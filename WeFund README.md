@@ -62,15 +62,13 @@ WeFund helps to make donating to causes you believe in easier, safer and
 more transparent through the use of XRPL, aiming to disrupt and simplify
 the international crowdfunding scene as we know it.
 
-# [Demo video:] [[https://drive.google.com/file/d/1To6HSxLv7DPDtWe8tB6QUQkQrSjfXKVO/view?usp=sharing/]{.underline}](https://drive.google.com/file/d/1To6HSxLv7DPDtWe8tB6QUQkQrSjfXKVO/view?usp=sharing/) {#demo-video-httpsdrive.google.comfiled1to6hsxlv7dpdtwe8tb6quqkqrsjfxkvoviewuspsharing}
+# [Demo video:] [https://drive.google.com/file/d/1To6HSxLv7DPDtWe8tB6QUQkQrSjfXKVO/view?usp=sharing/]
 
-[Audio video:]
+# [Audio video:] [https://drive.google.com/file/d/1vKB9xv6U1yEL3UHfLKpCyxVSWxV912R9/view?usp=sharing/]
 
-[[https://drive.google.com/file/d/1vKB9xv6U1yEL3UHfLKpCyxVSWxV912R9/view?usp=sharing/]{.underline}](https://drive.google.com/file/d/1vKB9xv6U1yEL3UHfLKpCyxVSWxV912R9/view?usp=sharing/)
+# [Blocklink : <https://testnet.xrpl.org/accounts/rPC5LX8Pc7cN7MadBsBdgA7NQuaZQM2wV4/transactions/>]
 
-# [Blocklink : <https://testnet.xrpl.org/accounts/rPC5LX8Pc7cN7MadBsBdgA7NQuaZQM2wV4/transactions/>]{.underline} {#blocklink-httpstestnet.xrpl.orgaccountsrpc5lx8pc7cn7madbsbdga7nquazqm2wv4transactions}
+# [Website has been published at :] [[https://easya-hackathon-84360.web.app/auth/]
 
-# [Website has been published at :] [[https://easya-hackathon-84360.web.app/auth/]{.underline}](https://easya-hackathon-84360.web.app/auth/) {#website-has-been-published-at-httpseasya-hackathon-84360.web.appauth}
-
-# [Presentation slides : <https://www.canva.com/design/DAGpp863C2M/PGqF5Chbp2g8oedsWu-QEQ/view?utm_content=DAGpp863C2M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h269ca26bd7>] {#presentation-slides-httpswww.canva.comdesigndagpp863c2mpgqf5chbp2g8oedswu-qeqviewutm_contentdagpp863c2mutm_campaigndesignshareutm_mediumlink2utm_sourceuniquelinksutlidh269ca26bd7}
+# [Presentation slides : <https://www.canva.com/design/DAGpp863C2M/PGqF5Chbp2g8oedsWu-QEQ/view?utm_content=DAGpp863C2M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h269ca26bd7>]
 
